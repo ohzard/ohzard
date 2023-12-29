@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=OH%20SW&fontSize=90)
 
+[![#A8B9CC](https://img.shields.io/badge/ style=flat-square&logo=C&logoColor=red)]
 <!--
 **ohzard/ohzard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
